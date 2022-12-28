@@ -20,7 +20,7 @@ const Footer = () => {
           Team Breakout Room 3
         </Link>
       </Text>
-      <Text color='white' opacity="0.7">Slatt!!!</Text>
+      <Text color='white' opacity="0.7"></Text>
     </Flex>
   )
 }
